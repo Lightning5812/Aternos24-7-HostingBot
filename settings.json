@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 50,
       "messages": [
-        "/teleport 35 64 -352",
-        "/teleport 35 64 -352",
-        "/teleport 35 64 -352"
+        "/teleport 255 171 -265",
+        "/teleport 255 171 -265",
+        "/teleport 255 171 -265"
       ]
     },
     "chat-log": true,
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 100
+      "interval": 10
     }
   },
   "modules": {
