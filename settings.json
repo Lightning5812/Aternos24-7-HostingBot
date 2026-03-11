@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 0
+      "interval": 100
     }
   },
   "modules": {
