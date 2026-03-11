@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 50,
+      "repeat-delay": 20,
       "messages": [
         "/teleport 255 171 -265",
         "/teleport 255 171 -265",
@@ -37,8 +37,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 200,
-    "max-reconnect-delay": 500,
+    "auto-reconnect-delay": 100,
+    "max-reconnect-delay": 300,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
